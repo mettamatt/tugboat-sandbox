@@ -2,7 +2,7 @@
 
 ## To generate a Tugboat Preview
 
-All you need to do to generate Tugboat Preview is to create a [pull request](https://help.github.com/articles/using-pull-requests/).
+All you need to do to generate a Tugboat Preview is create a [pull request](https://help.github.com/articles/using-pull-requests/).
 
 ## Quick start guide
 
